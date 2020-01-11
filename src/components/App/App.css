@@ -1,0 +1,13 @@
+* div{
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+
+.error{
+  color: crimson;
+}
+
+.success{
+  color: #22BB34;
+}
+

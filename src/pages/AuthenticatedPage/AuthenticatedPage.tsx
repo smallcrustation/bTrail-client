@@ -7,7 +7,7 @@ interface Props {
 const AuthenticatedPage: React.FC<Props> = () => {
   return (
     <div className="AuthenticatedPage">
-      <h1>AuthenticatedPage</h1>
+      <h1 className="success">AuthenticatedPage</h1>
     </div>
   )
 }
